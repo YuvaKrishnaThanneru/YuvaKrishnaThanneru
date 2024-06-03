@@ -1,7 +1,6 @@
-# Hi there, I'm Yuva Krishna Thanneru 👋
 <div align="center">
-  <img src="https://your-animation-url/guy-working.gif" align="right" width="200"/>
   <h1 style="color:#8a2be2;">Hi there, I'm Yuva Krishna Thanneru 👋</h1>
+  <img src="https://www.seaart.ai/explore/detail/cjsdil94msb9oegv6glg" align="right" width="200"/>
 </div>
 
 Aspiring data analyst with a Master’s degree in Computer Science, adept at analyzing complex datasets and extracting actionable insights. Committed to delivering accurate and impactful solutions through rigorous analysis and continuous learning.
@@ -22,6 +21,7 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 - **Cloud Technologies**: ☁️ Microsoft Azure, ☁️ AWS
 - **Visualization Tools**: 📊 MS Excel Advanced, 📈 Tableau, 📉 Power BI, 📊 SAS
 - **ETL Tools**: ❄️ Snowflake, ⚙️ Informatica
+
 ---
 
 ## 📂 Featured Projects
@@ -45,7 +45,7 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 
 ## 📈 GitHub Stats
 
-![Yuva's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=purple)
+![Yuva's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuvaKrishnaThanneru&show_icons=true&hide_border=true&theme=purple)
 
 ## 🔗 Links
 

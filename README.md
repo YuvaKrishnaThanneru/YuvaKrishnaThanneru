@@ -39,6 +39,6 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/yuva-krishna-thanneru)
+- [LinkedIn](http://www.linkedin.com/in/yuvakrishna15)
 
 Feel free to reach out if you have any questions or opportunities! 😊

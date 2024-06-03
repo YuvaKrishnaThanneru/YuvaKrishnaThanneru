@@ -1,4 +1,8 @@
 # Hi there, I'm Yuva Krishna Thanneru 👋
+<div align="center">
+  <img src="https://your-animation-url/guy-working.gif" align="right" width="200"/>
+  <h1 style="color:#8a2be2;">Hi there, I'm Yuva Krishna Thanneru 👋</h1>
+</div>
 
 Aspiring data analyst with a Master’s degree in Computer Science, adept at analyzing complex datasets and extracting actionable insights. Committed to delivering accurate and impactful solutions through rigorous analysis and continuous learning.
 
@@ -10,14 +14,18 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 - 📫 Reach me at: t.yuvakrishna@gmail.com
 - ⚡ Fun fact: I enjoy exploring new technologies and solving challenging problems
 
+---
+
 ## 🛠️ Skills
 
 - **Languages**: 🐍 Python, 💾 SQL, 🌐 HTML/CSS, 💻 C/C++, ☕ Java
 - **Cloud Technologies**: ☁️ Microsoft Azure, ☁️ AWS
 - **Visualization Tools**: 📊 MS Excel Advanced, 📈 Tableau, 📉 Power BI, 📊 SAS
 - **ETL Tools**: ❄️ Snowflake, ⚙️ Informatica
+---
 
 ## 📂 Featured Projects
+
 ### [🔍 Research Paper Search Engine](https://github.com/yourusername/research-paper-search-engine)
 - Built a search engine for 1500+ research papers, reducing search time by 30%.
 - Utilized NLP techniques like Stemming, Tokenization, and TF-IDF.
@@ -33,9 +41,11 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 - Designed a data storage system using MongoDB.
 - Reduced installation time by 50% with automated deployment scripts.
 
+---
+
 ## 📈 GitHub Stats
 
-![Yuva's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Yuva's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=purple)
 
 ## 🔗 Links
 

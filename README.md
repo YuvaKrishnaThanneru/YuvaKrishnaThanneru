@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color:#8a2be2;">Hi there, I'm Yuva Krishna Thanneru 👋</h1>
-  <img src="https://www.seaart.ai/explore/detail/cjsdil94msb9oegv6glg" align="right" width="200"/>
+  <img src="https://image.cdn2.seaart.ai/2023-09-06/16441426359402501/b26a9aace8eaa55887f5682e509a2d5cc7a16c68_high.webp" align="right" width="200"/>
 </div>
 
 Aspiring data analyst with a Master’s degree in Computer Science, adept at analyzing complex datasets and extracting actionable insights. Committed to delivering accurate and impactful solutions through rigorous analysis and continuous learning.

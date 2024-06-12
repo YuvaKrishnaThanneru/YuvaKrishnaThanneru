@@ -6,10 +6,10 @@
 Aspiring data analyst with a Master’s degree in Computer Science, adept at analyzing complex datasets and extracting actionable insights. Committed to delivering accurate and impactful solutions through rigorous analysis and continuous learning.
 
 - 🔭 Working on integrating AWS and Visualization tools to provide business insights.
-- 🌱 Currently learning Snowflake
+- 🌱 Currently looking for Data Analyst/Data Engineer roles, excited to work on real-world data driven platforms.
 - 👯 Looking to collaborate on data science and machine learning projects
 - 🤔 Seeking help with advanced data analytics techniques
-- 💬 Ask me about data visualization, machine learning, and Python programming
+- 💬 Ask me about ETL(Extract, Transform and Load) Tools, data visualization, machine learning, and Python programming
 - 📫 Reach me at: t.yuvakrishna@gmail.com
 - ⚡ Fun fact: I enjoy exploring new technologies and solving challenging problems
 

@@ -26,12 +26,18 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 
 ## 📂 Featured Projects
 
-### [🔍 Research Paper Search Engine](https://github.com/yourusername/research-paper-search-engine)
+### [YouTube Data Analysis Project 🎥✨](https://github.com/YuvaKrishnaThanneru/Youtube-Data-Analysis-Utilizing-ETL)
+- To manage, process, and perform analysis on structured and semi-structured YouTube videos data based on video categories and trending metrics utilizing AWS Services.
+- Automated ETL processes using AWS Glue and Lambda, reducing manual intervention and improving efficiency. 
+- Real time data processing enabled through Lambda functions, allowing for near real-time updates and processing of data.
+- Ensured data security through AWS IAM and encryption features in S3, protecting sensitive data during storage and transit.
+  
+### [🔍 Research Paper Search Engine](https://github.com/YuvaKrishnaThanneru/research-paper-search-engine)
 - Built a search engine for 1500+ research papers, reducing search time by 30%.
 - Utilized NLP techniques like Stemming, Tokenization, and TF-IDF.
 - Implemented a web application using Streamlit.
 
-### [📈 Sales Prediction and Analysis](https://github.com/yourusername/sales-prediction-analysis)
+### [📈 Sales Prediction and Analysis](https://github.com/YuvaKrishnaThanneru/sales-prediction-analysis)
 - Analyzed sales data from Adidas using Python.
 - Implemented linear regression for sales forecasting with 90% accuracy.
 - Optimized decision-making through predictive analysis.

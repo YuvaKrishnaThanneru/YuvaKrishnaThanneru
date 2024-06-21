@@ -37,12 +37,12 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 - Utilized NLP techniques like Stemming, Tokenization, and TF-IDF.
 - Implemented a web application using Streamlit.
 
-### [📈 Sales Prediction and Analysis](https://github.com/YuvaKrishnaThanneru/sales-prediction-analysis)
+### [📈 Sales Prediction and Analysis](https://github.com/YuvaKrishnaThanneru/Sales-Predication-and-analysis)
 - Analyzed sales data from Adidas using Python.
 - Implemented linear regression for sales forecasting with 90% accuracy.
 - Optimized decision-making through predictive analysis.
 
-### [💡 Health Monitoring Kiosk](https://github.com/yourusername/health-monitoring-kiosk)
+### [💡 Health Monitoring Kiosk](https://github.com/YuvaKrishnaThanneru/health-monitoring-kiosk)
 - Engineered a kiosk for measuring vital health parameters non-invasively.
 - Designed a data storage system using MongoDB.
 - Reduced installation time by 50% with automated deployment scripts.

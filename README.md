@@ -39,10 +39,12 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 - Utilized Machine Learning libraries scikit-learn, scikit-multilearn for text processing, vectorization, cosine similarity.
 - Generated Dashboards using Tableau to optimize user experience, resulting in a 20 percent increase in user engagement
 
-### [📈 Sales Prediction and Analysis](https://github.com/YuvaKrishnaThanneru/Sales-Predication-and-analysis)
-- Analyzed sales data from Adidas using Python.
-- Implemented linear regression for sales forecasting with 90% accuracy.
-- Optimized decision-making through predictive analysis.
+### [🌐 Real-Time Weather Data Pipeline Project](https://github.com/YuvaKrishnaThanneru/Real-Time-Weather-Data-Pipeline-with-AWS-and-Snowflake)
+- Hourly Data Fetch: Automates data fetching every hour, ensuring timely updates with up-to-date weather information.⏱️
+- Efficient Data Processing: Processes up to 10,000 weather records per hour using AWS Lambda, ensuring high efficiency and performance.⚡
+- Scalability: Manages up to 1TB of weather data monthly using scalable storage solutions like DynamoDB and S3.
+- Seamless Integration: Integrates AWS services (DynamoDB, Lambda, S3) and Snowflake for end-to-end data flow, enabling smooth data processing and real-time insights.
+- Secure Access Management: Implements fine-grained access control to AWS resources, ensuring secure management of user permissions and data access.
 
 ### [Netflix-Dashboard-Data-Analytics 🔍](https://github.com/YuvaKrishnaThanneru/Netflix-Dashboard-Data-Analytics)
 - Comprehensive Content Overview: Displays total movies and TV shows (4,000 titles), average ratings (overall 7.5), and total votes (10 million).
@@ -50,6 +52,11 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 - Geographic Insights: Provides country-specific data for 50 countries, featuring tables and geomaps with dynamic bubble sizes representing title count and votes.
 - Top Rated Titles and Interactive Features: Lists 100 top-rated movies and TV shows with ratings, votes, and plot summaries, plus advanced filtering, sorting, and dynamic slicers.
 
+### [📈 Sales Prediction and Analysis](https://github.com/YuvaKrishnaThanneru/Sales-Predication-and-analysis)
+- Analyzed sales data from Adidas using Python.
+- Implemented linear regression for sales forecasting with 90% accuracy.
+- Optimized decision-making through predictive analysis.
+  
 ### [💡 Health Monitoring Kiosk](https://github.com/YuvaKrishnaThanneru/health-monitoring-kiosk)
 - Engineered a kiosk for measuring vital health parameters non-invasively.
 - Designed a data storage system using MongoDB.

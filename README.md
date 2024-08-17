@@ -39,6 +39,13 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 - Utilized Machine Learning libraries scikit-learn, scikit-multilearn for text processing, vectorization, cosine similarity.
 - Generated Dashboards using Tableau to optimize user experience, resulting in a 20 percent increase in user engagement
 
+### [E-commerce Data Analysis Project 🛒📊](https://github.com/YuvaKrishnaThanneru/E-Commerce-Customer-Behavior-Analysis-and-Clustering)
+- Synthetic Data Generation: Created realistic e-commerce data with 500 transactions involving 100 customers and 10 unique products, enabling robust analysis and testing of algorithms.
+- Apriori Algorithm for Association Rules: Applied the Apriori algorithm to identify significant product associations with a minimum support of 10% and confidence of 50%, aiding in targeted marketing strategies.
+- Customer Segmentation with K-Means Clustering: Implemented K-Means clustering to segment customers into distinct groups, providing insights into customer behavior and facilitating personalized recommendations. 
+- Dimensionality Reduction with PCA: Used Principal Component Analysis (PCA) to reduce the dimensionality of the dataset, enabling effective visualization of customer clusters in 3D space for better interpretation. 
+- Interactive Visualizations: Developed 3D scatter plots to visualize association rules and customer clusters using Plotly, enhancing the interpretability of the results for stakeholders. 
+  
 ### [🌐 Real-Time Weather Data Pipeline Project](https://github.com/YuvaKrishnaThanneru/Real-Time-Weather-Data-Pipeline-with-AWS-and-Snowflake)
 - Hourly Data Fetch: Automates data fetching every hour, ensuring timely updates with up-to-date weather information.⏱️
 - Efficient Data Processing: Processes up to 10,000 weather records per hour using AWS Lambda, ensuring high efficiency and performance.⚡

@@ -73,6 +73,9 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 
 ## 📈 GitHub Stats
 ![Yuva's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuvaKrishnaThanneru&show_icons=true&hide_border=true&theme=purple)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=YuvaKrishnaThanneru&label=Profile%20views&color=0e75b6&style=flat" alt="YuvaKrishnaThanneru" /> 
+</p>
 
 ## 🔗 Links
 - [LinkedIn](http://www.linkedin.com/in/yuvakrishna15)

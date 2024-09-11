@@ -1,8 +1,8 @@
 <div align="center">
   <h1 style="color:#8a2be2;">Hi there, I'm Yuva Krishna Thanneru 👋</h1>
-  <img src="https://image.cdn2.seaart.ai/2023-09-06/16441426359402501/b26a9aace8eaa55887f5682e509a2d5cc7a16c68_high.webp" align="right" width="200"/>
+  <img src="https://image.cdn2.seaart.ai/2023-09-06/16441426359402501/b26a9aace8eaa55887f5682e509a2d5cc7a16c68_high.webp" align="right" width="200"/> 
 </div>
-
+ <img src="https://komarev.com/ghpvc/?username=YuvaKrishnaThanneru&label=Profile%20views&color=0e75b6&style=flat" align="left" alt="YuvaKrishnaThanneru" />
 Aspiring data analyst with a Master’s degree in Computer Science, adept at analyzing complex datasets and extracting actionable insights. Committed to delivering accurate and impactful solutions through rigorous analysis and continuous learning.
 
 - 🔭 Working on integrating AWS and Visualization tools to provide business insights.
@@ -73,11 +73,10 @@ Aspiring data analyst with a Master’s degree in Computer Science, adept at ana
 
 ## 📈 GitHub Stats
 ![Yuva's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuvaKrishnaThanneru&show_icons=true&hide_border=true&theme=purple)
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YuvaKrishnaThanneru&label=Profile%20views&color=0e75b6&style=flat" alt="YuvaKrishnaThanneru" /> 
-</p>
+
 
 ## 🔗 Links
-- [LinkedIn](http://www.linkedin.com/in/yuvakrishna15)
+<a href="mailto: t.yuvakrishna@gmail.com">![t.yuvakrishna@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="http://www.linkedin.com/in/yuvakrishna15">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 Feel free to reach out if you have any questions or opportunities! 😊

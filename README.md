@@ -1,9 +1,8 @@
 <div align="center">
-  <h1 style="color:#8a2be2;">Hi there, I'm Yuva Krishna Thanneru 👋</h1>
+  <h1 style="color:#8a2be2;">Hi there, I'm Yuva Krishna Thanneru 👋 <img src="https://komarev.com/ghpvc/?username=YuvaKrishnaThanneru&label=Profile%20views&color=0e75b6&style=flat" align="" alt="YuvaKrishnaThanneru" /></h1>
   <img src="https://image.cdn2.seaart.ai/2023-09-06/16441426359402501/b26a9aace8eaa55887f5682e509a2d5cc7a16c68_high.webp" align="right" width="200"/> 
 </div>
- <img src="https://komarev.com/ghpvc/?username=YuvaKrishnaThanneru&label=Profile%20views&color=0e75b6&style=flat" align="left" alt="YuvaKrishnaThanneru" />
-Aspiring data analyst with a Master’s degree in Computer Science, adept at analyzing complex datasets and extracting actionable insights. Committed to delivering accurate and impactful solutions through rigorous analysis and continuous learning.
+ Aspiring data analyst with a Master’s degree in Computer Science, adept at analyzing complex datasets and extracting actionable insights. Committed to delivering accurate and impactful solutions through rigorous analysis and continuous learning.
 
 - 🔭 Working on integrating AWS and Visualization tools to provide business insights.
 - 🌱 Currently looking for Data Analyst/Data Engineer roles, excited to work on real-world data driven platforms.

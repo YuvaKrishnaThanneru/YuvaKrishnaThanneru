@@ -27,35 +27,40 @@
 ### 📜 Microsoft Certified: Azure AI Engineer Associate  
 🗓️ Issued: Jun 2025 · Expires: Jun 2026  
 🆔 Credential ID: F4C734147C2A449C  
-🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/YuvaKrishnaThanneru-1398/F4C734147C2A449C?sharingId=F7ACD353DE13F3E)  
-🔧 Microsoft Azure  
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/YuvaKrishnaThanneru-1398/F4C734147C2A449C?sharingId=F7ACD353DE13F3E)  |
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
 
 
 ### ☁️ AWS Certified Solutions Architect – Associate  
 🗓️ Issued: Dec 2024 · Expires: Dec 2027  
 🔗 [View Credential](https://www.credly.com/badges/d622881b-898b-4e3e-8035-cac84ed2d0f5/linked_in_profile)  
-🔧 Amazon Web Services (AWS)  
+
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-F90?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ### 🧠 SQL Advanced – HackerRank  
 🗓️ Issued: Sep 2024  
 🆔 Credential ID: 69df940c5e7e  
 🔗 [View Credential](https://www.hackerrank.com/certificates/69df940c5e7e)  
-🔧 HackerRank  
+
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 ### ❄️ SnowPro Core Certification  
 🗓️ Issued: Aug 2024 · Expires: Aug 2026  
 🆔 Credential ID: 112340311  
 🔗 [View Credential](https://achieve.snowflake.com/488196b3-14cc-44b1-97cf-a0c6890d9c05#acc.x0KSgCWf)  
-🔧 Snowflake  
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### 📊 Google Data Analytics Professional Certificate  
 🗓️ Issued: Jun 2024  
 🆔 Credential ID: 55V9249L4UY8  
 🔗 [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/55V9249L4UY8)  
-🔧 Google
 
---
+![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
 
 ## 📂 Featured Projects
 

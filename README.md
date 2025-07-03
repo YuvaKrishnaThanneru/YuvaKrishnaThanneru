@@ -27,7 +27,7 @@
 ### 📜 Microsoft Certified: Azure AI Engineer Associate  
 🗓️ Issued: Jun 2025 · Expires: Jun 2026  
 🆔 Credential ID: F4C734147C2A449C  
-🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/YuvaKrishnaThanneru-1398/F4C734147C2A449C?sharingId=F7ACD353DE13F3E)  |
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/YuvaKrishnaThanneru-1398/F4C734147C2A449C?sharingId=F7ACD353DE13F3E) 
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
 
